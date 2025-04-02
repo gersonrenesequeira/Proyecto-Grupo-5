@@ -66,4 +66,4 @@ public class Administrador {
         this.ultima_actividad = ultima_actividad;
     }
 }
-
+  cfffff;
