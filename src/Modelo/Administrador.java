@@ -66,3 +66,7 @@ public class Administrador {
         this.ultima_actividad = ultima_actividad;
     }
 }
+<<<<<<< HEAD
+=======
+  cfffff;
+>>>>>>> 8995673f4d32e1bfbca212d9b991885b4c703266
