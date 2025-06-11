@@ -1,0 +1,2 @@
+dao.RegistroAsistenciaDAO
+controlador.RegistroAsistenciaController

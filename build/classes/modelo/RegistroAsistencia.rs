@@ -1,0 +1,2 @@
+modelo.RegistroAsistencia
+Empleado.RegistroAsistencia
